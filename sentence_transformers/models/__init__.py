@@ -8,3 +8,4 @@ from .RoBERTa import RoBERTa
 from .WordEmbeddings import WordEmbeddings
 from .WordWeights import WordWeights
 from .XLNet import XLNet
+from .MutualAttention import MutualAttention
