@@ -4,3 +4,5 @@ examples/datasets/*/
 examples/output
 sentence_transformers.egg-info
 dist/
+
+.vscode/
